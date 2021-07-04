@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: 'Press Start 2P', cursive;
 }
 
 .App-logo {
@@ -21,13 +22,16 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #56a7d6;
+  background-image: url(./background.png);
+  background-repeat: no-repeat;
+  background-size:     cover;   
+  background-position: center center;  
 }
 
-.App-link {
-  color: #61dafb;
+.sun-component {
+  color: #755139; 
 }
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +40,4 @@
     transform: rotate(360deg);
   }
 }
+
