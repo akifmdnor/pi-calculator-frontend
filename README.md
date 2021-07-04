@@ -6,6 +6,7 @@ This is a Project to calculate PI value and display sun circumference.
 
 This project is made by React and Node Js
 
+There is a web version deployed in HEROKU:
 
 Web App : [https://serene-congaree-44767.herokuapp.com/](https://serene-congaree-44767.herokuapp.com/)
 
