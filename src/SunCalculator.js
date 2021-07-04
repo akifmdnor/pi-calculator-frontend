@@ -3,9 +3,10 @@ import axios from 'axios'
 
 function Suncalculator() {
     const [pi, setPi] = useState([])
+    var url = "https://majestic-voyageurs-92598.herokuapp.com/pi";
 
     useEffect (() => {
-        axios.get('http://localhost:8080/pi')
+        axios.get(url)
         .then(res=> {
             console.log(res.data.request)
             setPi(res.data.request)
