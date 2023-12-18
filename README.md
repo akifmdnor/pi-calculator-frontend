@@ -8,7 +8,7 @@ This project is made by React and Node Js
 
 There is a web version deployed in HEROKU:
 
-Web App : [https://serene-congaree-44767.herokuapp.com/](https://serene-congaree-44767.herokuapp.com/)
+Web App : [https://pi-calculator-frontend-a7510e1fd07b.herokuapp.com/](https://pi-calculator-frontend-a7510e1fd07b.herokuapp.com/)
 
 Front end: [https://github.com/akifmdnor/pi-calculator-frontend](https://github.com/akifmdnor/pi-calculator-frontend)
 
