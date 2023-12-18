@@ -4,7 +4,7 @@ import axios from 'axios'
 function PiFetch() {
     const [pi, setPi] = useState([])
 
-    var url = "https://majestic-voyageurs-92598.herokuapp.com/latest-pi";
+    var url = "https://pi-calculator-api-b53d1fffaadc.herokuapp.com/latest-pi";
 
     useEffect (() => {
         axios.get(url)
